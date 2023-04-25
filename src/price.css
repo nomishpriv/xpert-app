@@ -1,0 +1,12 @@
+.sup{
+    top: -15px;
+    font-weight: bold;
+}
+.price{
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    font-size: 100px;
+}

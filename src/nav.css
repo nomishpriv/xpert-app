@@ -1,0 +1,30 @@
+@media screen and (min-width: 992px) {
+    .navbar-expand-lg .navbar-collapse {
+        display: flex!important;
+        flex-basis: auto;
+        flex-direction: row-reverse;
+    }
+  }
+  .me-auto {
+    margin-right: 0!important;
+}
+.navbar-nav{
+align-content: flex-end;
+flex-wrap: wrap;
+}
+.Font-Size{
+  font-size: x-large;
+}
+a.nav-link{
+  border-radius: 10px;
+  transition: 0.3s;
+  margin: 3px;
+}
+a.nav-link:hover {
+  background-color: white;
+  border-radius: 10px;
+  color: #198754;
+}
+.navbar-nav .nav-link.active, .navbar-nav .show>.nav-link {
+  color: #1f2e1b;
+}
