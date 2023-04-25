@@ -42,7 +42,7 @@ function Price() {
                 <span className="fs-1 ">
                   <sup className="sup">&#8360;</sup>
                 </span>
-                11,000
+                16,000
               </p>
               <div className="">
                 <b>Prices Vary by Hood: We Keep It Real with Our Local Rates</b>
